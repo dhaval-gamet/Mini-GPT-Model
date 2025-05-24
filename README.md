@@ -1,6 +1,6 @@
 # Mini-GPT-Model
 
-यह प्रोजेक्ट एक छोटा GPT (Generative Pre-trained Transformer) मॉडल है, जिसे हिंदी और प्रोग्रामिंग भाषा के डाटा पर ट्रेन किया गया है। इसमें sentiment analysis, वेब scraping, और एक CLI चैटबॉट जैसी सुविधाएँ शामिल हैं।
+यह प्रोजेक्ट एक छोटा GPT (Generative Pre-trained Transformer) मॉडल है, जिसे हिंदी और प्रोग्रामिंग भाषा के लिए ट्रेन किया जा सकता हे। इसमें sentiment analysis, वेब scraping, और एक CLI चैटबॉट जैसी सुविधाएँ शामिल हैं।
 
 ## विशेषताएँ (Features)
 - GPT आधारित Transformer architecture
@@ -82,3 +82,5 @@ MIT License
 
 - Author: Dhaval Gamet
 - [GitHub Profile](https://github.com/dhaval-gamet)
+- 
+You are free to use or modify this code with proper credit to the author. Commercial use without permission is not allowed.
