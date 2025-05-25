@@ -41,9 +41,14 @@ pip install torch transformers requests beautifulsoup4 sentencepiece
 - Default path: `/content/hindi_programming_text.txt`  
 - Format: Plain text file (UTF-8 encoded)
 
+## मेने इसको उपयोग केसे किया?
+- मेने इस mini GPT को गूगल कोलाब मे रन किया था।
+- और  /content/hindi_programming_text.txt फ़ाईल को गूगल ड्राइव मे रखा गया था। or सिर्फ 4MB डाटा पर ट्रेन  किया गया था। फिर भी ये ठीक ठाक जवाब दे रहा था।
+
 ## उपयोग कैसे करें (Usage)
 
-1. स्क्रिप्ट को चलाएं:
+1. सबसे पहले इस Mini GPT को आपको अपने डाटा पर ट्रेन करना होगा। उसके बाद इस मॉडल को seve कर्ले।
+2. स्क्रिप्ट को चलाएं:
    ```bash
    python "Mini GPT Model.py"
    ```
