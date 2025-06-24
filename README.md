@@ -43,7 +43,7 @@ pip install torch transformers requests beautifulsoup4 sentencepiece
 
 ## मेने इसको उपयोग केसे किया?
 - मेने इस mini GPT को गूगल कोलाब मे रन किया था।
-- और  /content/hindi_programming_text.txt फ़ाईल को गूगल ड्राइव मे रखा गया था। or सिर्फ 4MB डाटा पर ट्रेन  किया गया था। फिर भी ये ठीक ठाक जवाब दे रहा था।
+- और ``` /content/hindi_programming_text.txt``` फ़ाईल को गूगल ड्राइव मे रखा गया था। or सिर्फ 4MB डाटा पर ट्रेन  किया गया था। फिर भी ये ठीक ठाक जवाब दे रहा था।
 
 ## उपयोग कैसे करें (Usage)
 
